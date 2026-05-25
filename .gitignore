@@ -1,0 +1,45 @@
+# Compilados de Java
+*.class
+
+# Carpetas de build de Maven
+target/
+build/
+
+# Archivos generados por IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Archivos generados por Eclipse
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Logs y archivos temporales
+*.log
+*.out
+hs_err_pid*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Maven wrapper (opcional dejarlo o no)
+.mvn/
+mvnw
+mvnw.cmd
